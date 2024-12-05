@@ -6,4 +6,4 @@ I decided i was going to replicate this little game as a coded project using Pyt
 This project was pretty fun to make, drawing out a sleepy eepy orpheus snoozing and a more fortune-teller version, boba orpheus on Procreate. Also of course actually coding it turned out to be pretty simple, appJar GUIs that i'm now pretty familiar with, and using a Random Module (something i haven't really used before) to make orpheus use a variety of possible answers. Pretty fun overall.
 
 # ORPHEUSSSSSS!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-also i like blahaj
+also i like blahaj and heres the demo https://cloud-fa6xze7mb-hack-club-bot.vercel.app/0orpheus_magic.pptx
